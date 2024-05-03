@@ -11,3 +11,4 @@ load(url("https://www.dropbox.com/s/cnwtcr096szm8im/omsba_5112_birthweight.rdata
 my_data <- birthweight
 
 head(my_data)
+Summary(my_data)
